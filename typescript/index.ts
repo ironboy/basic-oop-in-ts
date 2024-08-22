@@ -61,7 +61,7 @@ console.log(gabriel.tellMeAboutYourPets());
 // let her tell you about herself and her education
 // - here TypeScript is not intelligent enough
 //   to infer that the mikaela variable was
-//   created as an instance of Studnet
+//   created as an instance of Student
 //   so we have to help it with a type check
 //   using instanceof...
 mikaela instanceof Student &&
